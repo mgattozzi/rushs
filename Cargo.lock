@@ -1,0 +1,14 @@
+[root]
+name = "rushs"
+version = "0.1.0"
+dependencies = [
+ "curryrs 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "curryrs"
+version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum curryrs 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "2cbf7eaace97669921af39d42a9b98cc82046c7d9e002266c6ffa62b028ee56f"
