@@ -9,4 +9,4 @@ make run
 
 and it will build the example properly and run it!
 
-You can find the post that covers this example on [my blog](http://mgattozzi.github.io/2016/10/15/rust-haskell.html).
+You can find the post that covers this example on [my blog](https://mgattozzi.com/rust-haskell).
